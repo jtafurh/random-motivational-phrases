@@ -1,7 +1,7 @@
 {
   "name": "random-motivational-phrases",
   "version": "1.0.0",
-  "description": "random-motivational-phrases",
+  "description": "To continue the day, show a motivating phrase and its author",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -6,13 +6,13 @@ Project created in the Dependency and Package Management Course with NPM in Plat
 ## Install
 
 ```npm
-npm install -g random-mtv
+npm install -g random-mt
 ```
 
 # Usage
 
 ```bash
-random-mtv
+random-mt
 ```
 
 # Contributing
