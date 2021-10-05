@@ -14,7 +14,15 @@
   "author": "Jeaneth Tafur <jtafurh1204@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-mt": "./bin/global.js"
+    "random-mt": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtafurh/random-motivational-phrases.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jtafurh/random-motivational-phrases/issues"
+  },
+  "homepage": "https://github.com/jtafurh/random-motivational-phrases#readme"
 }
