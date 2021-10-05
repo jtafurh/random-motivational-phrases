@@ -1,6 +1,6 @@
 {
   "name": "random-motivational-phrases",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "To continue the day, show a motivating phrase and its author",
   "main": "src/index.js",
   "scripts": {
