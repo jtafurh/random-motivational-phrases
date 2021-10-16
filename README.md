@@ -6,7 +6,7 @@ Project created in the Dependency and Package Management Course with NPM in Plat
 ## Install
 
 ```npm
-npm install -g random-mt
+npm i random-motivational-phrases
 ```
 
 # Usage
@@ -16,7 +16,7 @@ random-mt
 ```
 
 # Contributing
-If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-mtv](https://github.com/platzi/npm-random-msg)
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-mtv](https://github.com/jtafurh/random-motivational-phrases)
 
 # License
 random-msg is released under the [MIT License](https://opensource.org/licenses/MIT).
